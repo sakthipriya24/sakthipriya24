@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sakthipriyachinnadurai
-- 👀 I’m interested in odoo, django
+- 👀 I’m interested in odoo, django, .net
 - 🌱 I’m currently using python
 
 
